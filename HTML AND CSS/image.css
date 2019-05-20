@@ -1,0 +1,78 @@
+.image{
+	color: #fff;
+	border:7px gray solid;
+	padding: 20px;
+	background-color: #333333;
+	margin-left: 1.5%;
+	margin-right: 1.5%;
+	margin-top: 1%;
+	max-height: 100%;
+	background-image: url('images/bg1.jpg');
+}
+
+a{
+	color: #C0C0C0 ;
+}
+.bike {
+	border:7px black solid;
+	align-items: "center";
+	background-color: #333333;
+	margin-top: 1%; 
+	margin-left: 15%;
+	text-align: 'center';
+	width: 900px;
+	background-image: url('images/bg7.jpg');
+	color: #fff;
+
+}
+.pet {
+	border:7px black solid;
+	align-items: "center";
+	background-color: #333333;
+	margin-top: 1%; 
+	margin-left: 15%;
+	text-align: 'center';
+	width: 900px;
+	background-image: url('images/bg7.jpg');
+	color: #fff;
+
+
+}
+.scenary {
+	border:7px black solid;
+	align-items: "center";
+	background-color: #333333;
+	margin-top: 1%; 
+	margin-left: 15%;
+	text-align: 'center';
+	width: 900px;
+	background-image: url('images/bg7.jpg');
+	color: #fff;
+
+
+}
+.photo {
+	border:7px black solid;
+	align-items: "center";
+	background-color: #333333;
+	margin-top: 1%; 
+	margin-left: 15%;
+	text-align: 'center';
+	width: 900px;
+	background-image: url('images/bg7.jpg');
+	color: #fff;
+
+
+}
+.car {
+	border:7px black solid;
+	align-items: "center";
+	background-color: #333333;
+	width: 900px;
+	
+	margin-left: 15%;
+	text-align: 'center';
+	background-image: url('images/bg7.jpg');
+	color: #fff;
+
+}
